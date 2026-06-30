@@ -1,0 +1,5 @@
+name = "invite-ezpayinvite2-com"
+
+[assets]
+directory = "."
+not_found_handling = "single-page-application"
