@@ -1,7 +1,3 @@
 /*.apk
   Content-Type: application/vnd.android.package-archive
   Content-Disposition: attachment
-
-/app/*.apk
-  Content-Type: application/vnd.android.package-archive
-  Content-Disposition: attachment
